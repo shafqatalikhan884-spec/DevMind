@@ -1,0 +1,32 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary Files
+temp/
+
+# VS Code
+.vscode/settings.json
+
+# Node.js
+node_modules/
+
+# PHP
+vendor/
+
+# Environment Files
+.env
+.env.local
+
+# Cache
+.cache/
+
+# Uploads
+uploads/
+
+# Backup Files
+*.bak
